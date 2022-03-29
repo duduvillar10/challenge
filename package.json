@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "csv": "^6.0.5",
+    "csv-parse": "^5.0.4",
+    "google-libphonenumber": "^3.2.27",
+    "lodash": "^4.17.21"
+  },
+  "name": "challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
